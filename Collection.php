@@ -27,7 +27,7 @@ class Collection
 
     public function name()
     {
-        
+        $nme = 'Daniel Ponce';
     }
 
 }
