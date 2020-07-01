@@ -25,4 +25,9 @@ class Collection
         return $result;
     }
 
+    public function name()
+    {
+        
+    }
+
 }
