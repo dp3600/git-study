@@ -35,4 +35,9 @@ class Collection
         return 'testing';
     }
 
+    public function graph()
+    {
+        return 'graph';
+    }
+
 }
