@@ -21,4 +21,25 @@ class Collection
         return '3';
     }
 
+    public function hio1()
+    {
+        return 'hio1';
+    }
+
+    public function hio2()
+    {
+        return 'hio2';
+    }
+
+    public function hio3()
+    {
+        return 'hio1';
+    }
+
+    public function hio5()
+    {
+        return 'hio2';
+    }
+
+
 }
