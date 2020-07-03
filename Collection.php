@@ -44,6 +44,11 @@ class Collection
         return 'testing';
     }
 
+    public function gio()
+    {
+        return 'gio';
+    }
+
     public function graph()
     {
         return 'graph';
