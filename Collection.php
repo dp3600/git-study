@@ -30,33 +30,6 @@ class Collection
         return $result;
     }
 
-    public function name()
-    {
-        $nme = 'Daniel Ponce';
-    }
-
-    public function dev()
-    {
-        return 'dev';
-    }
-
-    public function master()
-    {
-        return 'master';
-    }
-    public function testing()
-    {
-        return 'testing';
-    }
-
-    public function gio()
-    {
-        return 'gio';
-    }
-
-    public function graph()
-    {
-        return 'graph';
-    }
+    
 
 }
