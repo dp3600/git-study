@@ -16,4 +16,14 @@ class Collection
         return 'master 1';
     }
 
+    public function hio1()
+    {
+        return 'hio1';
+    }
+
+    public function hio2()
+    {
+        return 'hio2';
+    }
+
 }
