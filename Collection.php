@@ -35,6 +35,11 @@ class Collection
         $nme = 'Daniel Ponce';
     }
 
+    public function dev()
+    {
+        return 'dev';
+    }
+
     public function master()
     {
         return 'master';
@@ -42,6 +47,11 @@ class Collection
     public function testing()
     {
         return 'testing';
+    }
+
+    public function gio()
+    {
+        return 'gio';
     }
 
     public function graph()
