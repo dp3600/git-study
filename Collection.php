@@ -16,6 +16,11 @@ class Collection
         return $this->items;
     }
 
+    public function soa()
+    {
+        return 'soa';
+    }
+
     public function concat($items)
     {
         $result = new static($this->items);
