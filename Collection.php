@@ -35,4 +35,9 @@ class Collection
         return 'one';
     }
 
+    public function twoIsa1()
+    {
+        return 'twoIsa1';
+    }
+
 }
