@@ -30,6 +30,11 @@ class Collection
         $nme = 'Daniel Ponce';
     }
 
+    public function dev()
+    {
+        return 'dev';
+    }
+
     public function master()
     {
         return 'master';
