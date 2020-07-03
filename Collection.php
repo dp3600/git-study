@@ -30,6 +30,9 @@ class Collection
         return $result;
     }
 
-    
+    public function oneIsa1()
+    {
+        return 'one';
+    }
 
 }
