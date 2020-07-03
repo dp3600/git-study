@@ -6,14 +6,9 @@ class Collection
     public $items = [];
 
 
-    public function threeMaster()
+    public function fo1()
     {
-        return 'three';
-    }
-
-    public function fourMaster()
-    {
-        return 'four';
+        return 'fo1';
     }
 
     public function master1()
