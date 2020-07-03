@@ -11,6 +11,9 @@ class Collection
         return 'three';
     }
 
-    
+    public function fourMaster()
+    {
+        return 'four';
+    }
 
 }
