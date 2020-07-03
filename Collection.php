@@ -16,4 +16,9 @@ class Collection
         return 'four';
     }
 
+    public function master1()
+    {
+        return 'master 1';
+    }
+
 }
