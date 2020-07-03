@@ -30,11 +30,10 @@ class Collection
         $nme = 'Daniel Ponce';
     }
 
-<<<<<<< HEAD
     public function master()
     {
         return 'master';
-=======
+    }
     public function testing()
     {
         return 'testing';
@@ -43,7 +42,6 @@ class Collection
     public function graph()
     {
         return 'graph';
->>>>>>> testing
     }
 
 }
