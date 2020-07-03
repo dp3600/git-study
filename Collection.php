@@ -11,9 +11,14 @@ class Collection
         return 'fo1';
     }
 
-    public function master1()
+    public function master2()
     {
-        return 'master 1';
+        return '2';
+    }
+
+    public function master3()
+    {
+        return '3';
     }
 
 }
