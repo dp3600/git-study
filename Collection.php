@@ -41,5 +41,10 @@ class Collection
         return 'hio2';
     }
 
+    public function fetch()
+    {
+        return 'fetch';
+    }
+
 
 }
