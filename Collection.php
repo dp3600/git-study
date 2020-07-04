@@ -18,4 +18,10 @@ class Collection
         
     }
 
+    public function master1()
+    {
+        
+    }
+
+
 }
