@@ -13,4 +13,9 @@ class Collection
         
     }
 
+    public function new3()
+    {
+        
+    }
+
 }
