@@ -56,5 +56,10 @@ class Collection
         
     }
 
+    public function fetch4()
+    {
+        
+    }
+
 
 }
