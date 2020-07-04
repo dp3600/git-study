@@ -46,5 +46,15 @@ class Collection
         return 'fetch';
     }
 
+    public function fetch2()
+    {
+        
+    }
+
+    public function fetch3()
+    {
+        
+    }
+
 
 }
