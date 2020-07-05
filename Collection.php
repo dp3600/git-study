@@ -23,6 +23,11 @@ class Collection
         
     }
 
+    public function master3()
+    {
+        
+    }
+
 
 
     public function master2()
