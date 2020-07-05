@@ -23,5 +23,10 @@ class Collection
         
     }
 
+    public function master3()
+    {
+        
+    }
+
 
 }
