@@ -24,4 +24,11 @@ class Collection
     }
 
 
+
+    public function master2()
+    {
+        return 'master 2';
+    }
+
+
 }
