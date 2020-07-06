@@ -39,5 +39,10 @@ class Collection
         return 'master 2';
     }
 
+    public function invite1()
+    {
+        return 'invite 1';
+    }
+
 
 }
