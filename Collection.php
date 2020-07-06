@@ -28,6 +28,10 @@ class Collection
         
     }
 
+    public function master4()
+    {
+        return 'master4';
+    }
 
 
     public function master2()
